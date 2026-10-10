@@ -1,7 +1,7 @@
-# Gym Tracker – Releases
+# GymTrack – Releases
 
 Dieses Repository enthält **keinen Quellcode**. Hier werden nur die fertigen, signierten Android-APKs
-von **Gym Tracker** veröffentlicht, einem privaten, werbefreien Workout-Logger für Krafttraining.
+von **GymTrack** veröffentlicht, einem privaten, werbefreien Workout-Logger für Krafttraining.
 
 Alle Versionen findest du unter [Releases](https://github.com/Warnage/gym-tracker-releases/releases).
 
@@ -27,3 +27,10 @@ Updates erhalten, weil alle Versionen mit demselben Schlüssel signiert sind.
 
 Alternativ die neueste `.apk` unter [Releases](https://github.com/Warnage/gym-tracker-releases/releases)
 herunterladen und auf dem Handy öffnen.
+
+## Nach der Installation
+
+- Beim ersten abgehakten Satz fragt Android nach der Erlaubnis für **Benachrichtigungen** – bitte erlauben,
+  sonst meldet der Pausentimer das Ende der Pause nicht.
+- Wichtig für Updates: die App **nicht deinstallieren** – dabei gehen alle Trainingsdaten verloren.
+  Zur Sicherheit ab und zu unter *Einstellungen → Backup exportieren* ein Backup anlegen.

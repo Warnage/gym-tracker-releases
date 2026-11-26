@@ -105,6 +105,9 @@ Ohne Obtainium geht es auch manuell: die neueste `.apk` unter
 - **Schritte (optional):** *Mehr → Einstellungen → Schritte → Schritte aus Health Connect* einschalten und
   den Zugriff erlauben. Die Schritte kommen aus Health Connect (z. B. von Samsung Health); GymTrack liest
   nur die Schrittzahl pro Tag.
+- **Mit Gemini schätzen (optional):** Beim Hinzufügen von Essen öffnet das Funkeln-Symbol die Gemini-App
+  mit einer fertigen Frage nach den Nährwerten. Die Antwort kopierst du und fügst sie in GymTrack ein.
+  GymTrack selbst sendet dabei nichts ins Internet.
 
 ## Daten sichern
 
